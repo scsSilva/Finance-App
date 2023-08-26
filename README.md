@@ -11,6 +11,7 @@
   <li>Styled Components</li>
   <li>Axios</li>
   <li>Json Server</li>
+  <li>Radix</li>
   <li>entre outras...</li>
 </ul>
 
